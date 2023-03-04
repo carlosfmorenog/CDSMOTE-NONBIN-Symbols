@@ -8,7 +8,7 @@ The original symbol dataset can be downloaded from here:
 https://www.dropbox.com/s/sj277k4slmrv3qc/symbols_combined_pixel_red.csv?dl=0
 
 The generated symbol dataset once CDSMOTE has been applied can be downloaded from here:
-https://www.dropbox.com/s/sj277k4slmrv3qc/symbols_combined_pixel_red.csv?dl=0
+https://www.dropbox.com/s/ll562q3gjqyrhp9/cdsmotedb_symbols_combined_pixel_kmeans.csv?dl=0
 
 Please reference this method as follows:
 
