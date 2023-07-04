@@ -7,12 +7,12 @@ See `demo.ipynb` for a jupyter notebook demo on how to use this method.
 The original symbol dataset can be downloaded from here:
 https://www.dropbox.com/s/sj277k4slmrv3qc/symbols_combined_pixel_red.csv?dl=0
 
-The generated symbol dataset once CDSMOTE has been applied can be downloaded from here:
+The generated symbol dataset, once CDSMOTE has been applied, can be downloaded from here:
 https://www.dropbox.com/s/ll562q3gjqyrhp9/cdsmotedb_symbols_combined_pixel_kmeans.csv?dl=0
 
 Please reference this method as follows:
 
-* Elyan E, Moreno-García CF, Johnston P. Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks. In: Engineering Applications of Neural Networks (EANN). 2020. p. 215–24. 
+* Elyan E, Moreno-García CF, Johnston P. Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks. In: Engineering Applications of Neural Networks (EANN). 2020. p. 215–24. https://doi.org/10.1007/978-3-030-48791-1_16.
 
 or use the BibTex entry below:
 
