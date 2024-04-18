@@ -24,7 +24,6 @@ booktitle = {Engineering Applications of Neural Networks (EANN)},
 doi = {10.1007/978-3-030-48791-1},
 isbn = {9783030487911},
 keywords = {Imbalance Datasets Multiclass,P{\&}ID,classification,cnn,engineering drawings,id,imbalanced dataset,multiclass,p},
-mendeley-tags = {Imbalance Datasets Multiclass,P{\&}ID},
 pages = {215--224},
 title = {{Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks}},
 year = {2020}
