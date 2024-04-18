@@ -14,7 +14,9 @@ Please reference this method as follows:
 
 * Elyan E, Moreno-García CF, Johnston P. Symbols in Engineering Drawings (SiED): An Imbalanced Dataset Benchmarked by Convolutional Neural Networks. In: Engineering Applications of Neural Networks (EANN). 2020. p. 215–24. https://doi.org/10.1007/978-3-030-48791-1_16.
 
-or use the BibTex entry below:
+* Jamieson, L. Moreno-García CF, Elyan E,. A Multiclass Imbalanced Dataset Classification of Symbols from Piping and Instrumentation Diagrams. In: International Conference on Document Analysis and Recognition (ICDAR). 2024.
+
+or use the BibTex entries below:
 
 @inproceedings{Elyan2020,
 author = {Elyan, Eyad and Moreno-Garc{\'{i}}a, Carlos Francisco and Johnston, Pamela},
